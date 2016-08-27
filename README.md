@@ -1,0 +1,1 @@
+Go to [http://chriscct7.github.io/blank-hijack](http://chriscct7.github.io/blank-hijack) to view the demo
